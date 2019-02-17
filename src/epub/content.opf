@@ -65,6 +65,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Samuel_Solomonovich_Koteliansky</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">TRANSLATORNACOAFLINK</meta>
 		<meta property="display-seq" refines="#translator-1">1</meta>
+		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">D. H. Lawrence</dc:contributor>
 		<meta property="file-as" refines="#translator-2">TRANSLATORSORT</meta>
@@ -77,6 +78,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-3">https://en.wikipedia.org/wiki/Leonard_Woolf</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-3">TRANSLATORNACOAFLINK</meta>
 		<meta property="display-seq" refines="#translator-3">3</meta>
+		<meta property="role" refines="#translator-3" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">COVERARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
