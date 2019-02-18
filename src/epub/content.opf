@@ -55,28 +55,31 @@
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Short_fiction</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ivan-bunin_short-fiction_samuel-solomonovich-koteliansky_d-h-lawrence_leonard-woolf_the-russian-review</meta>
 		<dc:creator id="author">Ivan Bunin</dc:creator>
-		<meta property="file-as" refines="#author">AUTHORSORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHORFULLNAME</meta>
+		<meta property="file-as" refines="#author">Bunin, Ivan</meta>
+		<meta property="alternate-script" refines="#author" xml:lang="ru">Ива́н Алексе́евич Бу́нин</meta>
+		<meta property="se:name.person.full-name" refines="#author">Ivan Alekseyevich Bunin</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Ivan_Bunin</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">AUTHORNACOAFLINK</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80028431</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator-1">Samuel Solomonovich Koteliansky</dc:contributor>
-		<meta property="file-as" refines="#translator-1">TRANSLATORSORT</meta>
+		<meta property="file-as" refines="#translator-1">Koteliansky, Samuel Solomonovich</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Samuel_Solomonovich_Koteliansky</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-1">TRANSLATORNACOAFLINK</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n86031769</meta>
 		<meta property="display-seq" refines="#translator-1">1</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">D. H. Lawrence</dc:contributor>
-		<meta property="file-as" refines="#translator-2">TRANSLATORSORT</meta>
+		<meta property="file-as" refines="#translator-2">Lawrence, D. H.</meta>
+		<meta property="se:name.person.full-name" refines="#translator-2">David Herbert Lawrence</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/D._H._Lawrence</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-2">TRANSLATORNACOAFLINK</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n79018450</meta>
 		<meta property="display-seq" refines="#translator-2">2</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-3">Leonard Woolf</dc:contributor>
-		<meta property="file-as" refines="#translator-3">TRANSLATORSORT</meta>
+		<meta property="file-as" refines="#translator-3">Woolf, Leonard</meta>
+		<meta property="se:name.person.full-name" refines="#translator-3">Leonard Sidney Woolf</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-3">https://en.wikipedia.org/wiki/Leonard_Woolf</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-3">TRANSLATORNACOAFLINK</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-3">http://id.loc.gov/authorities/names/n79058751</meta>
 		<meta property="display-seq" refines="#translator-3">3</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
@@ -86,18 +89,18 @@
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Dianna Adair</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Adair, Dianna</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Terrie Westman</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBERSORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Westman, Terrie</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.robinwhittleton.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
