@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/ivan-bunin/short-fiction/samuel-solomonovich-koteliansky_d-h-lawrence_leonard-woolf_the-russian-review</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/ivan-bunin/short-fiction/s-s-koteliansky_d-h-lawrence_leonard-woolf_the-russian-review</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<meta property="se:revision-number">0</meta>
@@ -34,7 +34,8 @@
 		<dc:subject id="subject-2">Bunin, Ivan Alekseevich, 1870-1953 -- Translations into English</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/44998</meta>
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/44998</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
@@ -49,11 +50,11 @@
 		<dc:source>https://en.wikisource.org/wiki/The_Russian_Review/Volume_1/April_1916/Elijah,_the_Prophet</dc:source>
 		<dc:source>https://en.wikisource.org/wiki/The_Russian_Review/Volume_1/June_1916/Figures</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007908346</dc:source>
-		<meta property="se:production-notes">This doesn’t include The Village which is short novel length. The translators for Elijah and Figures are unknown and listed as “The Russian Review”. Chronological order based on the list at https://en.wikipedia.org/wiki/List_of_short_stories_by_Ivan_Bunin</meta>
+		<meta property="se:production-notes">This doesn’t include The Village which is short novel length. The translators for Elijah and Figures are unknown and listed as “The Russian Review.” Chronological order based on the list at https://en.wikipedia.org/wiki/List_of_short_stories_by_Ivan_Bunin</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Short_fiction</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/ivan-bunin_short-fiction_samuel-solomonovich-koteliansky_d-h-lawrence_leonard-woolf_the-russian-review</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/ivan-bunin_short-fiction_s-s-koteliansky_d-h-lawrence_leonard-woolf_the-russian-review</meta>
 		<dc:creator id="author">Ivan Bunin</dc:creator>
 		<meta property="file-as" refines="#author">Bunin, Ivan</meta>
 		<meta property="alternate-script" refines="#author" xml:lang="ru">Ива́н Алексе́евич Бу́нин</meta>
@@ -61,8 +62,9 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Ivan_Bunin</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80028431</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator-1">Samuel Solomonovich Koteliansky</dc:contributor>
-		<meta property="file-as" refines="#translator-1">Koteliansky, Samuel Solomonovich</meta>
+		<dc:contributor id="translator-1">S. S. Koteliansky</dc:contributor>
+		<meta property="file-as" refines="#translator-1">Koteliansky, S. S.</meta>
+		<meta property="se:name.person.full-name" refines="#translator-1">Samuel Solomonovich Koteliansky</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Samuel_Solomonovich_Koteliansky</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n86031769</meta>
 		<meta property="display-seq" refines="#translator-1">1</meta>
@@ -83,6 +85,10 @@
 		<meta property="display-seq" refines="#translator-3">3</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-4">The Russian Review</dc:contributor>
+		<meta property="file-as" refines="#translator-4">Russian Review, The</meta>
+		<meta property="display-seq" refines="#translator-4">4</meta>
+		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">COVERARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
