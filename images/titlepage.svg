@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 650">
-	<title>The titlepage for the Standard Ebooks edition of Short Fiction, by Ivan Bunin. Translated by S. S. Koteliansky, D. H. Lawrence, Leonard Woolf and The Russian Review</title>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 710">
+	<title>The titlepage for the Standard Ebooks edition of Short Fiction, by Ivan Bunin. Translated by S. S. Koteliansky, D. H. Lawrence, Leonard Woolf, Bernard Guilbert Guerney and The Russian Review</title>
 	<style type="text/css">
 		text{
 			font-family: League Spartan;
@@ -32,5 +32,6 @@
 	<text class="contributor-descriptor" x="700" y="420">translated by</text>
 	<text class="contributor" x="700" y="480">S. S. KOTELIANSKY, D. H. LAWRENCE,</text>
 	<text class="contributor" x="700" y="540">LEONARD WOOLF,</text>
-	<text class="contributor" x="700" y="600">AND THE RUSSIAN REVIEW</text>
+	<text class="contributor" x="700" y="600">BERNARD GUILBERT GUERNEY</text>
+	<text class="contributor" x="700" y="660">AND THE RUSSIAN REVIEW</text>
 </svg>

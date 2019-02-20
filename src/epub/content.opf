@@ -85,10 +85,15 @@
 		<meta property="display-seq" refines="#translator-3">3</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
-		<dc:contributor id="translator-4">The Russian Review</dc:contributor>
-		<meta property="file-as" refines="#translator-4">Russian Review, The</meta>
+		<dc:contributor id="translator-4">Bernard Guilbert Guerney</dc:contributor>
+		<meta property="file-as" refines="#translator-4">Guerney, Bernard Guilbert</meta>
 		<meta property="display-seq" refines="#translator-4">4</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-4">http://id.loc.gov/authorities/names/n83227336</meta>
 		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-5">The Russian Review</dc:contributor>
+		<meta property="file-as" refines="#translator-5">Russian Review, The</meta>
+		<meta property="display-seq" refines="#translator-5">5</meta>
+		<meta property="role" refines="#translator-5" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">COVERARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
