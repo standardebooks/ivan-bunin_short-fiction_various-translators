@@ -50,6 +50,8 @@
 		<dc:source>https://en.wikisource.org/wiki/The_Russian_Review/Volume_1/April_1916/Elijah,_the_Prophet</dc:source>
 		<dc:source>https://en.wikisource.org/wiki/The_Russian_Review/Volume_1/June_1916/Figures</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007908346</dc:source>
+		<!-- The Dreams of Chang and other stories, no transcription source available -->
+		<dc:source>https://catalog.hathitrust.org/Record/001353536</dc:source>
 		<meta property="se:production-notes">This doesn’t include The Village which is short novel length. The translators for Elijah and Figures are unknown and listed as “The Russian Review.” Chronological order based on the list at https://en.wikipedia.org/wiki/List_of_short_stories_by_Ivan_Bunin</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
@@ -119,6 +121,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
