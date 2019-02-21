@@ -138,6 +138,7 @@
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/figures.xhtml" id="figures.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/foreword.xhtml" id="foreword.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/gautami.xhtml" id="gautami.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/gentle-breathing.xhtml" id="gentle-breathing.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -162,6 +163,7 @@
 		<itemref idref="the-dreams-of-chang.xhtml"/>
 		<itemref idref="a-compatriot.xhtml"/>
 		<itemref idref="kasimir-stanislavovitch.xhtml"/>
+		<itemref idref="gautami.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
