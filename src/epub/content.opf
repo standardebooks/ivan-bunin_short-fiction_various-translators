@@ -52,7 +52,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/007908346</dc:source>
 		<!-- The Dreams of Chang and other stories, no transcription source available -->
 		<dc:source>https://catalog.hathitrust.org/Record/001353536</dc:source>
-		<meta property="se:production-notes">This doesn’t include The Village which is short novel length. The translators for Elijah and Figures are unknown and listed as “The Russian Review.” Chronological order based on the list at https://en.wikipedia.org/wiki/List_of_short_stories_by_Ivan_Bunin</meta>
+		<meta property="se:production-notes">This collection doesn’t include The Village which is short novel length. The translators for Elijah and Figures are unknown and listed as “The Russian Review.” The Dreams of Chang had no transcriptions available beyond the OCR provided by Hathi, so has been built from that. Chronological order based on the list at https://en.wikipedia.org/wiki/List_of_short_stories_by_Ivan_Bunin</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Short_fiction</meta>
