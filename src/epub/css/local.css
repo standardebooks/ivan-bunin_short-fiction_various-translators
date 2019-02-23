@@ -1,6 +1,20 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+dt{
+	display: inline;
+	font-style: italic;
+}
+
+dd{
+	display: inline;
+	margin: 0;
+}
+
+dd::before{
+	content: "—";
+}
+
 [epub|type~="z3998:verse"] p,
 [epub|type~="z3998:song"] p{
 	text-align: left;
