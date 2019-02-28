@@ -32,3 +32,14 @@ dd::before{
 [epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
+
+[epub|type~="epigraph"]{
+	font-style: italic;
+	hyphens: none;
+}
+
+[epub|type~="epigraph"] cite{
+	margin-top: 1em;
+	font-style: normal;
+	font-variant: small-caps;
+}
