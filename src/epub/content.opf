@@ -96,10 +96,11 @@
 		<meta property="file-as" refines="#translator-5">Russian Review, The</meta>
 		<meta property="display-seq" refines="#translator-5">5</meta>
 		<meta property="role" refines="#translator-5" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
+		<dc:contributor id="artist">Edwin Landseer</dc:contributor>
+		<meta property="file-as" refines="#artist">Landseer, Edwin</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Sir Edwin Henry Landseer</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edwin_Landseer</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80056887</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Dianna Adair</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Adair, Dianna</meta>
