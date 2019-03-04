@@ -1,18 +1,8 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-dt{
-	display: inline;
+dfn{
 	font-style: italic;
-}
-
-dd{
-	display: inline;
-	margin: 0;
-}
-
-dd::before{
-	content: "—";
 }
 
 [epub|type~="z3998:verse"] p,
@@ -42,4 +32,10 @@ dd::before{
 	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
+}
+
+/* language of flowers explanation in The Grammar of Love */
+.explanation > p{
+	margin: 0;
+	text-indent: 0;
 }
