@@ -23,6 +23,7 @@ dfn{
 	display: none;
 }
 
+/* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
@@ -33,6 +34,22 @@ dfn{
 	font-style: normal;
 	font-variant: small-caps;
 }
+/* End all epigraphs */
+
+/* Epigraphs in section headers */
+section > header [epub|type~="epigraph"]{
+	display: inline-block;
+	margin: auto;
+	max-width: 80%;
+	text-align: left;
+}
+
+@supports(display: table){
+	section > header [epub|type~="epigraph"]{
+		display: table;
+	}
+}
+/* End epigraphs in section headers */
 
 /* language of flowers explanation in The Grammar of Love */
 .explanation > p{
