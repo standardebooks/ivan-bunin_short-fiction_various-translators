@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/ivan-bunin/short-fiction/s-s-koteliansky_d-h-lawrence_leonard-woolf_bernard-guilbert-guerney_the-russian-review</dc:identifier>
 		<dc:date>2019-03-11T19:02:37Z</dc:date>
-		<meta property="dcterms:modified">2019-03-11T19:53:39Z</meta>
-		<meta property="se:revision-number">2</meta>
+		<meta property="dcterms:modified">2019-03-11T22:54:12Z</meta>
+		<meta property="se:revision-number">3</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -40,7 +40,7 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Ivan Bunin was a Russian author, poet and diarist, who in 1933 (at the age of 63) won the Nobel Prize in Literature “for the strict artistry with which he has carried on the classical Russian traditions in prose writing.” Viewed by many at the time as the heir to his friend and contemporary Chekhov, Bunin wrote his poems and stories with a depth of description that attracted the admiration of his fellow authors. Maxim Gorky described him as “the best Russian writer of the day” and “the first poet of our times,” and his translators include D. H. Lawrence and Leonard Woolf.&lt;/p&gt;
-			&lt;p&gt;This collection includes the famous &lt;i&gt;The Gentleman from San Francisco&lt;/i&gt;, partially set on Capri where Bunin spend several winters, and stories told from the point of view of many more characters, including historic Indian princes, emancipated Russian serfs, desert prophets, and even a sea-faring dog. The short stories collected here are all of the available public domain translations into English, in chronological order of the original Russian publication. They were translated by S. S. Koteliansky, D. H. Lawrence, Leonard Woolf, Bernard Guilbert Guerney, and &lt;i&gt;The Russian Review&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;This collection includes the famous &lt;i&gt;The Gentleman from San Francisco&lt;/i&gt;, partially set on Capri where Bunin spent several winters, and stories told from the point of view of many more characters, including historic Indian princes, emancipated Russian serfs, desert prophets, and even a sea-faring dog. The short stories collected here are all of the available public domain translations into English, in chronological order of the original Russian publication. They were translated by S. S. Koteliansky, D. H. Lawrence, Leonard Woolf, Bernard Guilbert Guerney, and &lt;i&gt;The Russian Review&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
