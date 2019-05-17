@@ -26,22 +26,22 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Soviet Union -- Social life and customs -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Bunin, Ivan Alekseevich, 1870-1953 -- Translations into English</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/44998</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/44998</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008117118</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of Ivan Bunin’s translated short stories, ordered by date of publication.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Ivan Bunin was a Russian author, poet and diarist, who in 1933 (at the age of 63) won the Nobel Prize in Literature “for the strict artistry with which he has carried on the classical Russian traditions in prose writing.” Viewed by many at the time as the heir to his friend and contemporary Chekhov, Bunin wrote his poems and stories with a depth of description that attracted the admiration of his fellow authors. Maxim Gorky described him as “the best Russian writer of the day” and “the first poet of our times,” and his translators include D. H. Lawrence and Leonard Woolf.&lt;/p&gt;
 			&lt;p&gt;This collection includes the famous &lt;i&gt;The Gentleman from San Francisco&lt;/i&gt;, partially set on Capri where Bunin spent several winters, and stories told from the point of view of many more characters, including historic Indian princes, emancipated Russian serfs, desert prophets, and even a sea-faring dog. The short stories collected here are all of the available public domain translations into English, in chronological order of the original Russian publication. They were translated by S. S. Koteliansky, D. H. Lawrence, Leonard Woolf, Bernard Guilbert Guerney, and &lt;i&gt;The Russian Review&lt;/i&gt;.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- The Gentleman from San Francisco and Other Stories -->
 		<dc:source>https://www.gutenberg.org/ebooks/44998</dc:source>
