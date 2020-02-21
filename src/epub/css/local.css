@@ -61,7 +61,7 @@ section > header [epub|type~="epigraph"]{
 /* End epigraphs in section headers */
 
 /* language of flowers explanation in The Grammar of Love */
-.explanation > p{
+#the-grammar-of-love blockquote:nth-of-type(2) > p{
 	margin: 0;
 	text-indent: 0;
 }
