@@ -55,7 +55,7 @@
 		<meta property="se:production-notes">This collection doesn’t include The Village which is short novel length. The translators for Elijah and Figures are unknown and listed as “The Russian Review.” The Dreams of Chang had no transcriptions available beyond the OCR provided by Hathi, so has been built from that. Chronological order based on the list at https://en.wikipedia.org/wiki/List_of_short_stories_by_Ivan_Bunin</meta>
 		<meta property="se:word-count">93837</meta>
 		<meta property="se:reading-ease.flesch">65.25</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Short_fiction</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Ivan_Bunin#Short_story_collections</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ivan-bunin_short-fiction_s-s-koteliansky_d-h-lawrence_leonard-woolf_bernard-guilbert-guerney_the-rus</meta>
 		<dc:creator id="author">Ivan Bunin</dc:creator>
 		<meta property="file-as" refines="#author">Bunin, Ivan</meta>
