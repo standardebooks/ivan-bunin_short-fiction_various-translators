@@ -61,8 +61,27 @@ article > header [epub|type~="epigraph"]{
 }
 /* End epigraphs in section headers */
 
+[epub|type~="se:letter.dateline"]{
+	text-align: right;
+}
+
+[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:postscript"] [epub|type~="se:letter.dateline"]{
+	font-style: italic;
+}
+
 /* language of flowers explanation in The Grammar of Love */
 #the-grammar-of-love blockquote:nth-of-type(2) > p{
 	margin: 0;
 	text-indent: 0;
+}
+
+#an-unknown-friend blockquote{
+	margin-left: 0;
+	margin-right: 0;
 }
