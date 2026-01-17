@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 770">
-	<title>The titlepage for the Standard Ebooks edition of Short Fiction, by Ivan Bunin. Translated by S. S. Koteliansky, D. H. Lawrence, Leonard Woolf, Bernard Guilbert Guerney, The Russian Review and Natalie A. Duddington</title>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 830">
+	<title>The titlepage for the Standard Ebooks edition of Short Fiction, by Ivan Bunin. Translated by S. S. Koteliansky, D. H. Lawrence, Leonard Woolf, Bernard Guilbert Guerney, The Russian Review, and Natalie A. Duddington</title>
 	<style type="text/css">
 		text{
 			font-family: "League Spartan";
@@ -30,8 +30,9 @@
 	<text class="title" x="700" y="130">SHORT FICTION</text>
 	<text class="author" x="700" y="290">IVAN BUNIN</text>
 	<text class="contributor-descriptor" x="700" y="480">translated by</text>
-	<text class="contributor" x="700" y="540">S. S. KOTELIANSKY, D. H. LAWRENCE,</text>
-	<text class="contributor" x="700" y="600">LEONARD WOOLF, BERNARD</text>
-	<text class="contributor" x="700" y="660">GUILBERT GUERNEY, THE RUSSIAN</text>
-	<text class="contributor" x="700" y="720">REVIEW AND NATALIE A. DUDDINGTON</text>
+	<text class="contributor" x="700" y="540">S. S. KOTELIANSKY,</text>
+	<text class="contributor" x="700" y="600">D. H. LAWRENCE, LEONARD WOOLF,</text>
+	<text class="contributor" x="700" y="660">BERNARD GUILBERT GUERNEY,</text>
+	<text class="contributor" x="700" y="720">THE RUSSIAN REVIEW,</text>
+	<text class="contributor" x="700" y="780">AND NATALIE A. DUDDINGTON</text>
 </svg>
