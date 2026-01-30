@@ -40,6 +40,7 @@
 		<meta property="se:is-a-collection">true</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="se:title-in-collection" refines="#collection-1">The Gentleman from San Francisco</meta>
 		<dc:description id="description">A collection of Ivan Bunin’s translated short stories, ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ivan-bunin"&gt;Ivan Bunin&lt;/a&gt; was a Russian author, poet and diarist, who in 1933 (at the age of 63) won the Nobel Prize in Literature “for the strict artistry with which he has carried on the classical Russian traditions in prose writing.” Viewed by many at the time as the heir to his friend and contemporary &lt;a href="https://standardebooks.org/ebooks/anton-chekhov"&gt;Chekhov&lt;/a&gt;, Bunin wrote his poems and stories with a depth of description that attracted the admiration of his fellow authors. Maxim Gorky described him as “the best Russian writer of the day” and “the first poet of our times,” and his translators include &lt;a href="https://standardebooks.org/ebooks/d-h-lawrence"&gt;&lt;abbr&gt;D. H.&lt;/abbr&gt; Lawrence&lt;/a&gt; and Leonard Woolf.&lt;/p&gt;
