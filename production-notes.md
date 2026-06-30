@@ -1,0 +1,1 @@
+This collection doesn’t include The Village which is short novel length. The translators for Elijah and Figures are unknown and listed as “The Russian Review.” The Dreams of Chang had no transcriptions available beyond the OCR provided by Hathi, so has been built from that. Chronological order based on the list at https://en.wikipedia.org/wiki/List_of_short_stories_by_Ivan_Bunin
