@@ -41,7 +41,7 @@
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<meta property="schema:hasPart" refines="#collection-1" id="collection-1-entry-1">schema:hasPart</meta>
+		<meta id="collection-1-entry-1" property="schema:hasPart" refines="#collection-1">schema:hasPart</meta>
 		<meta property="rdf:type" refines="#collection-1-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-1-entry-1">The Gentleman from San Francisco</meta>
 		<meta property="schema:abstract">A collection of Ivan Bunin’s translated short stories, ordered by date of publication.</meta>
@@ -83,7 +83,7 @@
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">D. H. Lawrence</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Lawrence, D. H.</meta>
-		<meta property="schema:alternateName" refines="#translator-2">David Herbert Lawrence</meta>
+		<meta property="schema:alternateName" refines="#translator-2">David Herbert Richards Lawrence</meta>
 		<link href="https://en.wikipedia.org/wiki/D._H._Lawrence" refines="#translator-2" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79018450.html" refines="#translator-2" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
@@ -109,7 +109,7 @@
 		<meta property="role" refines="#translator-6" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Edwin Landseer</dc:contributor>
 		<meta property="file-as" refines="#artist">Landseer, Edwin</meta>
-		<meta property="schema:alternateName" refines="#artist">Sir Edwin Henry Landseer</meta>
+		<meta property="schema:alternateName" refines="#artist">Edwin Henry Landseer</meta>
 		<link href="https://en.wikipedia.org/wiki/Edwin_Landseer" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80056887.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
